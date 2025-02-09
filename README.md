@@ -1,4 +1,4 @@
-# CLIP Abstraction for Zero-Shot Appearance Transfer
+# Zero-Shot Appearance Transfer using LLMs
 ## Overview
 The **Zero-Shot Appearance Transfer** project aims to synthesize images that balance semantic adherence to textual prompts with accurate integration of visual styles extracted from an input image. Traditional models like Stable Diffusion and CLIP excel individually but often struggle to maintain this balance. To address this, our approach integrates the Kandinsky model and utilizes structured task decomposition with an LLM agent for precise appearance transfer.
 
