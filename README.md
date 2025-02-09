@@ -1,8 +1,8 @@
 # CLIP Abstraction for Zero-Shot Appearance Transfer
-
 ## Overview
 The **Zero-Shot Appearance Transfer** project aims to synthesize images that balance semantic adherence to textual prompts with accurate integration of visual styles extracted from an input image. Traditional models like Stable Diffusion and CLIP excel individually but often struggle to maintain this balance. To address this, our approach integrates the Kandinsky model and utilizes structured task decomposition with an LLM agent for precise appearance transfer.
 
+![Sample Architecture](./dog_wearing_red_hat_polka_dots.jpg)
 ## Features
 ### 1. Appearance Transfer via CLIP Abstraction
 - Utilize CLIP’s latent space to align text and image embeddings.
